@@ -13,6 +13,7 @@ description: CNU ENGL 350
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude these files from your production _site
 exclude:
@@ -21,4 +22,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-theme: minimal
+
+remote_theme: pages-themes/minimal@v0.2.0
