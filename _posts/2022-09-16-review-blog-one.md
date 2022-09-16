@@ -42,4 +42,4 @@ However, it is possible to access Figure 7 by hovering over the icon and clickin
 
 
 ### Conclusion
-Even though the *Virtual Paul’s Cross Project* has some technical issues and is not entirely accessibile for the masses, the project serves great purpose in historical reenactment. The 3D models of the original architecture are intricate and impressive, and when looking at the video model while listening to the audio samples, it becomes an exclusive experience.  
+Even though the *Virtual Paul’s Cross Project* has some technical issues and is not entirely accessibile for the masses, the project serves great purpose in historical reenactment. The 3D models of the original architecture are intricate and impressive, and when looking at the video model while listening to the audio samples, it becomes a high-toned historical experience. This project adds  
