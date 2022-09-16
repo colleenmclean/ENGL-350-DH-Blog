@@ -2,7 +2,8 @@
 # Project Director: John N. Wall
 # Project URL: [https://vpcross.chass.ncsu.edu/](https://vpcross.chass.ncsu.edu/)
 
-![front page of Virtual Paul's Cross Project](https://user-images.githubusercontent.com/112140314/190688818-dcd20c33-c0ed-418b-9b84-787f613b1bde.png)
+![front page of Virtual Paul's Cross Project](https://user-images.githubusercontent.com/112140314/190704789-53a20b73-be33-49f2-a2ed-1b9f3a08cf7a.png)
+
 
 ### Project Overview
 The *Virtual Paul’s Cross Project* is a digital humanities project that aims to recreate religious sermons by seventeenth century English poet, John Donne. This project uses primary texts and scholarly resources to digitize St. Paul’s Cathedral on Gunpowder Day, November 5th 1622. The *Virtual Paul’s Cross Project* (VPCP) consists of multiple 3D models and rendered images of the digitally reconstructed cathedral, as well as reenacted audio files of Donne’s sermon for the occasion. By putting these elements together, *VPCP* becomes an immersive historical experience catered to a modern audience. 
