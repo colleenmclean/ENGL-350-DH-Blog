@@ -31,7 +31,7 @@ The acoustic model was designed by Ben Markham and Matt Azevedo, two acoustic en
 
 
 ### Design and Accessibility
-The Virtual Paul’s Cross Project site is visually appealing with a cohesive theme. It is divided into sections and subsections that are displayed at the top of the page. Although the site can be navigated by using the drop down tabs, the front page clearly states where visitors can find information by clicking the hyperlinks highlighted in red. When looking at this site for the first time, I followed the order which the front page recommended. For new visitors, I think the site could benefit from directing users to first look into an overview of the historical context before looking at the visual models and listening to the audio files.
+The Virtual Paul’s Cross Project site is visually appealing with a cohesive theme. It is divided into sections and subsections that are displayed at the top of the page. Although the site can be navigated by using the drop down tabs, the [front page](https://vpcross.chass.ncsu.edu/) clearly states where visitors can find information by clicking the hyperlinks highlighted in red. When looking at this site for the first time, I followed the order which the front page recommended. For new visitors, I think the site could benefit from directing users to first look into an overview of the historical context before looking at the visual models and listening to the audio files.
 
 ![Tab bar depicting Occasions tab. Regular Text in red, highlighted text in gray.](https://user-images.githubusercontent.com/112140314/190691811-591779e6-8904-45cf-a139-4d614d103935.png)
 
@@ -44,4 +44,4 @@ However, it is possible to access Figure 7 by hovering over the icon and clickin
 
 
 ### Conclusion
-Even though the *Virtual Paul’s Cross Project* has some technical issues and is not entirely accessible for the masses, the project serves great purpose in virtual historical reenactment. The 3D models of the original architecture are intricate and impressive, and when looking at the video model while listening to the audio samples, it becomes a high-toned historical experience. This project adds  
+Even though the *Virtual Paul’s Cross Project* has some technical issues and is not entirely accessible for the masses, the project serves great purpose in virtual historical reenactment. The 3D models of the original architecture are intricate and impressive, and when looking at the video model while listening to the audio samples, it becomes a high-toned historical experience. This project does its best to teach visitors about John Donne and seventeenth century British preaching, while formally introducing the broader field of historical recreation and reenactment. *VPCP* not only succeeds in both of these areas, but is also excellent model for humanists and historians who want create immersive experiences for historical teaching purposes. 
