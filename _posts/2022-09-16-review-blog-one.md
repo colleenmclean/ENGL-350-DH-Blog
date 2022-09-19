@@ -39,7 +39,10 @@ The Virtual Paul’s Cross Project site is visually appealing with a cohesive th
 
 ![Tab bar depicting Occasions tab. Regular Text in red, highlighted text in gray.](https://user-images.githubusercontent.com/112140314/190691811-591779e6-8904-45cf-a139-4d614d103935.png)
 
-The individual pages of the site follow a cohesive format. The text is organized with headings, subheadings, and bolded text. The sentences are mostly easy to read. However, the gray text may appear too light against the site’s white background, and for some this may be difficult to see depending on the visitor's computer. That being said, the site has not been formatted for mobile or tablet, and cannot be used on either of these devices. 
+![List of text that depicts site visitation order and where to find content on the site.](https://user-images.githubusercontent.com/112140314/190934861-e4d92bbf-c189-4e59-aac4-dccd4c3e33fa.png)
+
+
+The individual pages of the site follow a cohesive format. The text is organized with headings, subheadings, and bolded text. The sentences are mostly easy to read. However, the gray text may appear too light against the site’s white background, and for some this may be difficult to see depending on the visitor's computer. That being said, the site has not been formatted for mobile or tablet, and cannot be used on either of these devices (*Note*: I have only viewed this project on Windows 11 OS and Android, so I am unsure how this project appears on Mac OS or Linux). 
 
 The site is extremely engaging with its use of figures and images; it feels like a historical gallery. This not only assists in showing how the production team utilized these primary sources to make their own visual and acoustic models, but also with visitor immersion. While all of the images are of high quality, some of the images do not display properly. I first noticed this on the ["*Framework*"](https://vpcross.chass.ncsu.edu/framework/) tab (beneath ["*Overview*"](https://vpcross.chass.ncsu.edu/)), where Figure 7 is represented by a broken image icon. 
 
