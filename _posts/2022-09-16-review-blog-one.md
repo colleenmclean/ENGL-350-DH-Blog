@@ -6,7 +6,7 @@
 
 
 ### Project Overview
-The *Virtual Paul’s Cross Project* is a digital humanities project that aims to recreate religious sermons by seventeenth century English poet, John Donne. This project uses primary texts and scholarly resources to digitize St. Paul’s Cathedral on Gunpowder Day, November 5th 1622. The *Virtual Paul’s Cross Project* (VPCP) consists of multiple 3D models and rendered images of the digitally reconstructed cathedral, as well as reenacted audio files of Donne’s sermon for the occasion. By putting these elements together, *VPCP* becomes an immersive historical experience catered to a modern audience. 
+The *Virtual Paul’s Cross Project* is a digital humanities project that aims to recreate religious sermons by seventeenth century English poet, John Donne, to enhance upon current knowledge of English preaching. This project uses primary texts and scholarly resources to digitize St. Paul’s Cathedral on Gunpowder Day, November 5th 1622. The *Virtual Paul’s Cross Project* (VPCP) consists of multiple 3D models and rendered images of the digitally reconstructed cathedral, as well as reenacted audio files of Donne’s sermon for the occasion. By putting these elements together, *VPCP* becomes an immersive historical experience catered to a modern audience. 
 ![Figure 1 of St. Paul's Churchyard. Image of basic visual modeling done in SketchUp of cathedral.](https://user-images.githubusercontent.com/112140314/190689768-ab3b19af-1605-46ff-ba81-3beff3dcf044.png)
 
 
