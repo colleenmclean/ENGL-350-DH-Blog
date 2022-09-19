@@ -45,7 +45,7 @@ The site is extremely engaging with its use of figures and images; it feels like
 
 ![Figure 7 depicted as unavailable with tiny broken image icon that resembles a framed photograph.](https://user-images.githubusercontent.com/112140314/190698267-93a51d6e-12c9-4d09-a587-880db0e9f557.png)
 
-However, it is possible to access Figure 7 by hovering over the icon and clicking on it or clicking and dragging it to another browser tab. This issue is more prominent on the "*Installations*" tab where half of the images are broken, but they can be fixed in the same manner as aforementioned. Even with these broken images, one of the site’s greatest assets is still its use of primary source diagrams. 
+However, it is possible to access Figure 7 by hovering over the icon and clicking on it or clicking and dragging it to another browser tab. This issue is more prominent on the ["*Installations*"](https://vpcross.chass.ncsu.edu/installation/) tab where half of the images are broken, but they can be fixed in the same manner as aforementioned. Even with these broken images, one of the site’s greatest assets is still its use of primary source diagrams. 
 
 
 ### Conclusion
