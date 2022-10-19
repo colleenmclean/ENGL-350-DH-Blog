@@ -9,7 +9,7 @@
 
 *Labor Rights and Considerations in ESports* is a digital humanities project that aims to showcase the world of ESports through a legal lens; in doing so, it is able to spread awareness on corruption within the industry that directly harms ESports professionals. 
 
-The site focuses on the lack of resources available to ESports professionals, and how this leads players to fall victim to a toxic workplace environment that encourages overworking that inevitably leads to burnout. In exposing the industry, site visitors will see that these ESports professionals are vulnerable to countless pitfalls and are offered few protections–similar to the nature of *League of Legends* itself, it is a cutthroat, “high risk high reward” environment. 
+The site focuses on the lack of resources available to ESports professionals, and how this leads players to fall victim to a toxic workplace environment that encourages overworking, which inevitably leads to burnout. In exposing the industry, site visitors will see that these ESports professionals are vulnerable to countless pitfalls and are offered few protections–similar to the nature of *League of Legends* itself, it is a cutthroat, “high risk high reward” environment. 
 
 The project is showcased in a blog format with pages of data that the project creator, Joey Illuzzi, uses to make effective claims against Riot Games’ corrupt policies and business decisions. Illuzzi integrates two timelines into this project: one displays a complete history of all competitive rulings, and the other showcases examples of “unsatisfactory labor conditions and power dynamics.” 
 
