@@ -25,13 +25,19 @@ Illuzzi uses multiple scholarly sources throughout the blog, most of which can b
 
 ## Technology
 
-LRCE was coded in GitHub using HTML5, while both timelines were made using Northwestern University’s [Knight Lab](https://timeline.knightlab.com) application. 
+LRCE was coded in GitHub using HTML5, while both timelines were made using Northwestern University’s [Knight Lab](https://timeline.knightlab.com) application.
+
+![timeline example. under Riot's official rulings. shows gray textbox with image of 2011 league of legends client. entry is titled "Reginald and Censorship](https://user-images.githubusercontent.com/112140314/197422082-18658120-c4ad-4d29-8d0d-600af12353fc.png)
+
 
 Before reviewing the technological components of the project, it is worth mentioning that the site’s URL (https://joeyilluzzi.github.io/index.html) is unfitting for all the ESports content provided. Since the URL is simply the name of the project creator, this made the project extremely difficult to find online; this may hinder traffic to the site. 
 
 Both timelines in this project serve great purpose and provide a surplus of recorded data. By using a timeline format to showcase information, site visitors can see the progression of decisions and rulings made by Riot Games and how they affected other rulings over the course of eight years. 
 
 The Knight Lab timeline application allows users to showcase the month and year an event occurred, as well as implement another column to further organize and contextualize the data. In the case of this project, the extra column organizes the rulings by tournament bracket and season. While it might have been helpful to provide context on the LCS seasonal structure for visitors who are unfamiliar with it, adding this extra component shows how in-depth Illuzzi researched the events. 
+
+![timeline example 2. shows titles of each data entry along with the date by month and year, as well as when they happened in the LCS competitive season. very faint text with clickable titles on harrassment.](https://user-images.githubusercontent.com/112140314/197422166-84e13620-ba36-48b1-9333-e70f29dcc4b9.png)
+
 
 The timeline can be used by clicking on the white arrows in the large text box to go backwards or forwards. Additionally, by scrolling down to the larger view of the timeline beneath the text box, specific events can be clicked on to go directly to them. However, it may be difficult to use this feature in order to look for a specific type of ruling, since many of the titles are cut off due to space constraints. 
 
@@ -41,5 +47,21 @@ Even with these drawbacks, the timeline is extremely important and useful to Ill
 
 
 ## Design and Accessibility
+
+One of the most impressive features of this site is how organized and aesthetically pleasing it is. The front page is clean and easy to navigate–throughout the entirety of the site, all hyperlinks are clearly underlined to avoid confusion on what can be clicked on. The front page has a large font that contrasts cleanly against the site’s background. The front page really “pops” and easily grabs visitors’ attention with its use of color, headings, and images. 
+
+I thought it was extremely helpful and considerate that the introduction recommends the order in which visitors proceed through the site. Unlike past blogs I have reviewed, the order Illuzzi recommends builds upon information and is helpful for visitors who may know nothing about ESports, League of Legends, or Riot Games. 
+
+I should note that without reading the introduction, I would have completely missed out on the tri-tab in the right corner of the site. 
+![explore tab. gray backdrop with white text and x to escape on the left. shows home, about, glossary, timelines, and sources tabs.](https://user-images.githubusercontent.com/112140314/197422007-89b4a5a3-57e0-4434-9736-eee8e15187dd.png)
+
+The *Explore* tab features a concise [*About*](https://joeyilluzzi.github.io/about.html), a [*Glossary*](https://joeyilluzzi.github.io/glossary.html) of helpful terms (both for ESports/*LoL* and legal jargon), both [*Timelines*](https://joeyilluzzi.github.io/timeline.html), and Illuzzi’s [*Sources*](https://joeyilluzzi.github.io/sources.html). While I commend the organization of the tabs, I think the tri-tab symbol is too small and can easily get overlooked. The timeline is such an important part of the project, and I think it would be detrimental to miss it. I would recommend Illuzzi make the tri-tab larger or use drop-down tabs beneath the introduction. 
+
+The body paragraphs and information on all of the site pages are easy to read, and I did not catch any errors in terms of mechanics or punctuation. There were very few instances where hyperlinks still needed to be inserted, but this did not detract from the almost overwhelming amount of information already provided. 
+
+Still, the site is not entirely accessible–the site uses dozens of images and infographics, and none of these elements have alt text. 
+
+To my knowledge, the site can be viewed on both desktop and mobile (namely Windows 11 OS and Android). As aforementioned, this site may be difficult to find in a search engine, since the URL has nothing to do with the content of the project. 
+
 
 ## Conclusion
