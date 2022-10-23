@@ -28,9 +28,7 @@ Illuzzi uses multiple scholarly sources throughout the blog, most of which can b
 *LRCE* was coded in GitHub using HTML5, and both timelines were made using Northwestern University’s [Knight Lab](https://timeline.knightlab.com) application.
 
 ![timeline example. under Riot's official rulings. shows gray textbox with image of 2011 league of legends client. entry is titled "Reginald and Censorship](https://user-images.githubusercontent.com/112140314/197422082-18658120-c4ad-4d29-8d0d-600af12353fc.png)
-
-
-Before reviewing the technological components of the project, it is worth mentioning that the site’s URL (https://joeyilluzzi.github.io/index.html) is unfitting for all the ESports content provided. Since the URL is simply the name of the project creator, this made the project extremely difficult to find online; this may hinder traffic to the site. 
+ 
 
 Both timelines in this project serve great purpose and provide a surplus of recorded data. By using a timeline format to showcase this information, site visitors can see the progression of decisions and rulings made by Riot Games and how some rulings affected other rulings over the course of eight years. 
 
@@ -44,7 +42,7 @@ The timeline can be used by clicking on the white arrows in the large text box t
 ![shows gray textbox with image of 2014 entry for C9 player Hai's hospitalization due to poor working conditions.](https://user-images.githubusercontent.com/112140314/197422444-60c934e0-03c4-499c-9e8d-5b07f045e207.png)
 
 
-The second timeline (insert title) has better usability than the first, since all images and videos but one can be accessed. Many of the images and videos on the first timeline either have broken links, have been removed due to copyright restrictions, or (in the instance of some of the YouTube videos) have been privated on their parent sites. 
+The second timeline, "Unsatisfactory Labor Conditions," has better usability than the first, since all images and videos but one can be accessed. Many of the images and videos on the first timeline either have broken links, have been removed due to copyright restrictions, or (in the instance of some of the YouTube videos) have been privated on their parent sites. 
 
 Even with these drawbacks, the timeline is extremely important and useful to Illuzzi’s research. For my own grant project, I think implementing a similar timeline of events in South Korean ESports history would be very beneficial to the project’s overall clarity. 
 
@@ -64,7 +62,7 @@ The body paragraphs and information on all of the site pages are easy to read, a
 
 Still, the site is not entirely accessible–the site uses dozens of images and infographics, and none of these elements have alt text. 
 
-To my knowledge, the site can be viewed on both desktop and mobile (namely Windows 11 OS and Android). As aforementioned, this site may be difficult to find in a search engine, since the URL has nothing to do with the content of the project. 
+To my knowledge, the site can be viewed on both desktop and mobile (namely Windows 11 OS and Android). However, it is a personal gripe of mine that the site’s URL (https://joeyilluzzi.github.io/index.html) is unfitting for all the in-depth ESports content provided. Since the URL is simply the name of the project creator, this made the project extremely difficult to find online; this may hinder potential traffic to the site.
 
 
 ## Conclusion
