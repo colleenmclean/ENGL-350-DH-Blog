@@ -65,4 +65,14 @@ Still, the site is not entirely accessible–the site uses dozens of images and 
 To my knowledge, the site can be viewed on both desktop and mobile (namely Windows 11 OS and Android). However, it is a personal gripe of mine that the site’s URL (https://joeyilluzzi.github.io/index.html) is unfitting for all the in-depth ESports content provided. Since the URL is simply the name of the project creator, this made the project extremely difficult to find online; this may hinder potential traffic to the site.
 
 
-## Conclusion
+## Conclusion and Personal Project Considerations
+
+I have a huge passion for ESports and entities related to it; finding this project felt like a dream. This site organizes so much information with the blog entries and timelines, and Illuzzi synthesizes it with contextual information on labor laws. 
+
+By bringing attention to ESports and its pressing labor rights issues in recent years, this blog is humanitarian at its core; the humanistic claims against the industry with evidence deem it an excellent addition to the field of DH. Although there is a possibility other blogs focus on similar topics, *LRCE*’s attention to detail and careful consideration make it entirely unique in the field of ESports research and its recent history. 
+
+This blog provides me with a lot of inspiration for my own grant project. My grant will be focusing on South Korea as the birthplace of ESports. The creation of the LCS would not have been possible without the humble beginnings of ESports and competitive gaming in South Korea. 
+
+This blog has inspired me to bring in considerations and information on the *LCK*, the South Korean equivalent of the LCS. I think researching the same ESport in a different region would only add to the work Illuzzi has done on the LCS, and would allow for comparisons and contrasts between the two.
+
+While I will focus solely on the historical context that shows the progression of ESports to the billion-dollar industry it is today, this blog has also inspired me to use a similar timeline feature in my future endeavors. 
