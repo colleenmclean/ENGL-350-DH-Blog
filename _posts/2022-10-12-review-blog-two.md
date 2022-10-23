@@ -20,26 +20,29 @@ Labor Rights and Considerations in ESports (*LRCE*) focuses on the League of Leg
 
 Illuzzi states multiple times throughout the project that while foreign divisions of this particular ESport may face similar labor issues, he chose to focus on the LCS because other regions (namely the LCK, League of Legends Champions Korea) do not have as much information published in English [(see *Project Limitations*)](https://joeyilluzzi.github.io/future.html). Although my project grant focuses on the influence of South Korea in ESports, Illuzzi infers that other professional leagues face similar issues.
 
-Illuzzi uses multiple scholarly sources throughout the blog, most of which can be found in [this literature review](https://drive.google.com/file/d/1VW16qG9pJhrfGzhiNR4CSomrPc0bFkxi/view). Other sources (videos, blogs, and articles) are hyperlinked throughout the project. However, since the site has not been updated since 2019, some of the information may be outdated or unavailable. This is especially prevalent in the site’s timeline–while all of the textual information is there, multiple cited videos and images are broken and cannot be retrieved. 
+Illuzzi uses multiple scholarly sources throughout the blog, most of which can be found in [this literature review](https://drive.google.com/file/d/1VW16qG9pJhrfGzhiNR4CSomrPc0bFkxi/view). Other sources (videos, blogs, and articles) are hyperlinked throughout the project. However, since the site has not been updated since 2019, some of the information may be outdated or unavailable.
 
 
 ## Technology
 
-LRCE was coded in GitHub using HTML5, while both timelines were made using Northwestern University’s [Knight Lab](https://timeline.knightlab.com) application.
+*LRCE* was coded in GitHub using HTML5, and both timelines were made using Northwestern University’s [Knight Lab](https://timeline.knightlab.com) application.
 
 ![timeline example. under Riot's official rulings. shows gray textbox with image of 2011 league of legends client. entry is titled "Reginald and Censorship](https://user-images.githubusercontent.com/112140314/197422082-18658120-c4ad-4d29-8d0d-600af12353fc.png)
 
 
 Before reviewing the technological components of the project, it is worth mentioning that the site’s URL (https://joeyilluzzi.github.io/index.html) is unfitting for all the ESports content provided. Since the URL is simply the name of the project creator, this made the project extremely difficult to find online; this may hinder traffic to the site. 
 
-Both timelines in this project serve great purpose and provide a surplus of recorded data. By using a timeline format to showcase information, site visitors can see the progression of decisions and rulings made by Riot Games and how they affected other rulings over the course of eight years. 
+Both timelines in this project serve great purpose and provide a surplus of recorded data. By using a timeline format to showcase this information, site visitors can see the progression of decisions and rulings made by Riot Games and how some rulings affected other rulings over the course of eight years. 
 
-The Knight Lab timeline application allows users to showcase the month and year an event occurred, as well as implement another column to further organize and contextualize the data. In the case of this project, the extra column organizes the rulings by tournament bracket and season. While it might have been helpful to provide context on the LCS seasonal structure for visitors who are unfamiliar with it, adding this extra component shows how in-depth Illuzzi researched the events. 
+The Knight Lab timeline application allows users to showcase the month and year an event occurred, as well as implement another column to further organize and contextualize the data. In the case of this project, the extra column organizes the rulings by tournament bracket and season. While it might have been helpful to provide further context on the LCS seasonal structure for visitors who are unfamiliar with it, adding this extra component shows how in-depth Illuzzi researched the events. 
 
 ![timeline example 2. shows titles of each data entry along with the date by month and year, as well as when they happened in the LCS competitive season. very faint text with clickable titles on harrassment.](https://user-images.githubusercontent.com/112140314/197422166-84e13620-ba36-48b1-9333-e70f29dcc4b9.png)
 
 
 The timeline can be used by clicking on the white arrows in the large text box to go backwards or forwards. Additionally, by scrolling down to the larger view of the timeline beneath the text box, specific events can be clicked on to go directly to them. However, it may be difficult to use this feature in order to look for a specific type of ruling, since many of the titles are cut off due to space constraints. 
+
+![shows gray textbox with image of 2014 entry for C9 player Hai's hospitalization due to poor working conditions.](https://user-images.githubusercontent.com/112140314/197422444-60c934e0-03c4-499c-9e8d-5b07f045e207.png)
+
 
 The second timeline (insert title) has better usability than the first, since all images and videos but one can be accessed. Many of the images and videos on the first timeline either have broken links, have been removed due to copyright restrictions, or (in the instance of some of the YouTube videos) have been privated on their parent sites. 
 
