@@ -56,6 +56,7 @@ I thought it was extremely helpful and considerate that the introduction recomme
 I should note that without reading the introduction, I would have completely missed out on the tri-tab in the right corner of the site. 
 ![explore tab. gray backdrop with white text and x to escape on the left. shows home, about, glossary, timelines, and sources tabs.](https://user-images.githubusercontent.com/112140314/197422007-89b4a5a3-57e0-4434-9736-eee8e15187dd.png)
 
+
 The *Explore* tab features a concise [*About*](https://joeyilluzzi.github.io/about.html), a [*Glossary*](https://joeyilluzzi.github.io/glossary.html) of helpful terms (both for ESports/*LoL* and legal jargon), both [*Timelines*](https://joeyilluzzi.github.io/timeline.html), and Illuzzi’s [*Sources*](https://joeyilluzzi.github.io/sources.html). While I commend the organization of the tabs, I think the tri-tab symbol is too small and can easily get overlooked. The timeline is such an important part of the project, and I think it would be detrimental to miss it. I would recommend Illuzzi make the tri-tab larger or use drop-down tabs beneath the introduction. 
 
 The body paragraphs and information on all of the site pages are easy to read, and I did not catch any errors in terms of mechanics or punctuation. There were very few instances where hyperlinks still needed to be inserted, but this did not detract from the almost overwhelming amount of information already provided. 
